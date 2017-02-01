@@ -1098,7 +1098,6 @@
 
 	body {
 		background: #252122;
-		background-image: url("images/bg02.png");
 		font-family: Microsoft JhengHei;
 		font-weight: 300;
 		color: #5d5d5d;
@@ -2407,7 +2406,6 @@
 				width: 275px;
 				z-index: 10002;
 				color: #858484;
-				background-image: url("images/bg02.png");
 				box-shadow: inset -3px 0px 5px 0px rgba(0, 0, 0, 0.35);
 			}
 
